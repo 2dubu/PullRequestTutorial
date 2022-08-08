@@ -1,3 +1,3 @@
-- [ ] Modify main logo size
+- [x] Modify main logo size
 - [ ] Fixing authentication-related bugs
 - [ ] Remove unnecessary annotations
